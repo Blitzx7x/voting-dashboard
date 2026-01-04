@@ -10,7 +10,7 @@ This dashboard analyzes voter trends by age, gender, and state using public cens
 - Public Census & Election datasets
 
 ## Dashboard Preview
-![Dashboard Screenshot](images/dashboard_screenshot.png)
+![Dashboard Screenshot](Voting Dasboard.PNG)
 
 ## Full Report
 Download the full dashboard PDF here: [Voter Dashboard PDF](Voter Dashboard.pdf)
