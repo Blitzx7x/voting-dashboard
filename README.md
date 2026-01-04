@@ -10,10 +10,12 @@ This dashboard analyzes voter trends by age, gender, and state using public cens
 - Public Census & Election datasets
 
 ## Dashboard Preview
-![Dashboard Screenshot](Voting Dasboard.PNG)
+![Dashboard Screenshot]<img width="1301" height="728" alt="Voting Dasboard" src="https://github.com/user-attachments/assets/f80446fd-35ef-47b5-92fc-e9d5cd93051d" />
+
 
 ## Full Report
-Download the full dashboard PDF here: [Voter Dashboard PDF](Voter Dashboard.pdf)
+Download the full dashboard PDF here:[Voter Dashboard.pdf](https://github.com/user-attachments/files/24419747/Voter.Dashboard.pdf)
+
 
 ## Key Insights
 - Voter turnout increases sharply after age 24
